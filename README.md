@@ -9,19 +9,24 @@
 - [GitHub](https://github.com/BehnazRafiei)
 ------------------
 ## گروه ها
+
+## معماری نرم افزار
+ 
  1. G-S01
-    1. [SA-05بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/05_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)
-    1. [SA-14علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/14_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B1%D8%B2%D9%85%D8%AC%D9%88)
-    1. [SA-15بهناز رفیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/15_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A)    
-    1. [SA-04مرضیه بهاءلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/04_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)
-    1. [SA-22زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/22_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87) 
-    1. [SA-24پوریا صفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A) 
-1. G-L01
-    
-      
-    1. [SDM-03مرضیه بهاء لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/03_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
-    2. [SDM-04بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)   
-    1. [SDM-13بهناز رفیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/13_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A)  
+    1. [SA-05بهرام بهنژاد]
+    1. [SA-14علیرضا رزمجو]
+    1. [SA-15بهناز رفیعی](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/SoftwareArchitecture)    
+    1. [SA-04مرضیه بهاءلو]
+    1. [SA-22زهرا صالح زاده]
+    1. [SA-24پوریا صفری]
+
+## متودولوژی
+ 
+ 1. G-L01
+         
+    1. [SDM-03مرضیه بهاء لو]    
+    2. [SDM-04بهرام بهنژاد]  
+    1. [SDM-13بهناز رفیعی](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 
     
 ------------------
@@ -33,9 +38,9 @@
 <br>
 [ درس متدولوژي ايجاد نرم افزار  01-1115282](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 <br>
-[درس سمینار - 02-1115029] (https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/MscSeminar-1)
+[درس سمینار - 02-1115029](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
-[درس سمينار ( تحقيق و تتبع نظري ) - 03-1115257](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-2)
+[درس سمينار ( تحقيق و تتبع نظري ) - 03-1115257](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/MscSeminar-2)
 <br>
 --------------
 ## روز و ساعت ارائه دروس
