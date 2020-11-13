@@ -29,11 +29,11 @@
 
 ## دروس ارشد
 
-[1115280_01	معماري نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	3](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/SoftwareArchitecture)
 <br>
-[ درس متدولوژي ايجاد نرم افزار  01-1115282](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[ درس متدولوژي ايجاد نرم افزار  01-1115282](https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 <br>
-[درس سمینار - 02-1115029] (https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
+[درس سمینار - 02-1115029] (https://github.com/BehnazRafiei/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
 [درس سمينار ( تحقيق و تتبع نظري ) - 03-1115257](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-2)
 <br>
@@ -87,7 +87,7 @@
                 <th style="background-color: darkcyan;">سرکار</th>
               <th>دوشنبه</th>
             </tr>
-             <tr>
+            <tr>
                  <th></th>
                 <th style="background-color: dimgrey;">ترجمه کتاب</th>
                 <th style="background-color: darkgray;">انجام تمرین های دروس ارشد</th>
@@ -98,7 +98,7 @@
                 <th style="background-color: darkcyan;">سرکار</th>
               <th>سه شنبه</th>
             </tr>
-             <tr>
+            <tr>
                 <th></th>
                 <th style="background-color: dimgrey;"></th>
                 <th style="background-color:red;">انجام تمرین های دروس ارشد </th>
@@ -109,11 +109,15 @@
                 <th style="background-color: darkcyan;">سرکار</th>
               <th>چهارشنبه</th>
             </tr>
-              <tr>
-    <th ></th>
-     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-     <th>پنج شنبه</th>
-     </tr>
+            <tr>
+                <th ></th>
+                <th ></th>
+                <th ></th>
+                <th ></th>
+                <th ></th>
+                <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
+                <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
+               
+                <th>پنج شنبه</th>
+           </tr>
 </table>
